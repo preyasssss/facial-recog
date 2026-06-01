@@ -1,0 +1,1 @@
+documentatia este in docs/index.html, nu reusesc sa o fac pdf din command prompt. imi cer scuze pentru deranj!

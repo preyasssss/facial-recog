@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"capture"},{"l":"detector"},{"l":"features"},{"l":"recognition"},{"l":"svm"},{"l":"ui"},{"l":"utils"}];updateSearchResults();
